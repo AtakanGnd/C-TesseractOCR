@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5PAmlEXycwtPo06yhM7q+QV2n6Us8dRMcslamqctRkuanDVN1eI3SKP/EnsOVdVdcgCyjfh2ucCGN0AqPlQVw==",
+  "success": true,
+  "projectFilePath": "D:\\Masters\\TesseractOCR\\TesseractOCR\\TesseractOCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agundog2\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\agundog2\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
